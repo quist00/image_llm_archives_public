@@ -1,0 +1,15 @@
+*.csv
+*.txt
+*.env
+*.jpg
+*.png
+*.jpeg
+*.tif
+*.gif
+.DS_Store
+venv/
+__pycache__/*
+*.gz
+*.xlsx
+!requirements.txt
+!img/campus_scenes/*
